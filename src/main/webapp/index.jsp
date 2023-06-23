@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Test build on April 20th </h2>
+<h2> Edited war file and deployed using jenkins </h2>
 </body>
 </html>
